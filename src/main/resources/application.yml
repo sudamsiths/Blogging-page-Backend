@@ -1,0 +1,5 @@
+Spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/blogger_pane
+    username: root
+    password: 1234
