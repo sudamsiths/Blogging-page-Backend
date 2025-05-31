@@ -41,6 +41,6 @@ public class BlogController {
     public void updateBlog(@RequestBody BlogDTO blogDTO){
         blogService.updatebtn(blogDTO);
     }
-
+//controller
 
 }
